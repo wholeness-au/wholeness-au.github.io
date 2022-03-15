@@ -24,3 +24,9 @@ display: block;
   margin: auto;
   display: block;
 }
+
+.item {
+  height: 300px;
+  margin: auto;
+  display: block;
+}
